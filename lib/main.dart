@@ -3,7 +3,7 @@ import 'package:expense_tracker/widgets/expenses.dart';
 
 void main (){
   runApp(
-    MaterialApp(
+    const MaterialApp(
       home: Expenses(),
     )
   );
